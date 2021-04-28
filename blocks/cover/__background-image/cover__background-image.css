@@ -1,0 +1,8 @@
+.cover__background-image {
+    position: absolute;
+    background-size: 100%;
+    object-fit: cover;
+    background-position: center;
+    max-width: 1184px;
+    min-height: 740px;
+}

@@ -1,0 +1,12 @@
+.places__link {
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.places__link:hover {
+    opacity: 0.8;
+}

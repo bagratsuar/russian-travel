@@ -1,0 +1,6 @@
+.footer__copyright {
+    display: flex;
+    align-self: flex-end;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}

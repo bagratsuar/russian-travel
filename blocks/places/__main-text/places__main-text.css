@@ -1,0 +1,37 @@
+.places__main-text {
+    max-width: 484px;
+    grid-area: text;
+    line-height: 29.34px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-style: normal;
+}
+
+@media (max-width: 1024px) {
+    .places__main-text {
+        max-width: 456px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .places__main-text {
+        max-width: 456px;
+    }
+}
+
+@media (max-width: 768px) {
+    .places__main-text {
+        max-width: 352px;
+        line-height: 26.08px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 320px) {
+    .places__main-text {
+        max-width: 288px;
+        line-height: 26.08px;
+        font-size: 16px;
+    }
+}
