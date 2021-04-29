@@ -1,6 +1,16 @@
 .footer__copyright {
     display: flex;
-    align-self: flex-end;
     margin-bottom: 24px;
     color: #FFFFFF;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: right;
+}
+
+@media (max-width: 650px) {
+    .footer__copyright {
+        line-height: 16px;
+    }
 }
