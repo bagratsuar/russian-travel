@@ -4,7 +4,9 @@
     justify-content: space-between;
     text-decoration: none;
     list-style: none;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 92px;
 }
 
 @media (max-width: 1024px) {
@@ -29,8 +31,6 @@
 
 @media (max-width: 320px) {
     .footer {
-        max-width: 186px;
-        display: flex;
-        flex-direction: column;
+        max-width: 280px;
     }
 }

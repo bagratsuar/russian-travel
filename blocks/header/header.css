@@ -5,6 +5,7 @@
      flex-direction: row;
      justify-content: space-between;
      margin-bottom: 56px;
+     align-items: center;
  }
  
  @media (max-width: 1024px) {

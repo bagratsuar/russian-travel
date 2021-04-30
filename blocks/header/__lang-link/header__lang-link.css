@@ -9,8 +9,12 @@
     font-style: normal;
 }
 
-.header__lang-link:nth-child(1n) {
-    padding-right: 18px;
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
+.header__lang-link:last-of-type {
+    margin-right: 0;
 }
 
 @media (max-width: 320px) {

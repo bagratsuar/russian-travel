@@ -21,14 +21,3 @@
         margin-bottom: 48px;
     }
 }
-
-@media (max-width: 320px) {
-    .footer__links-item {
-        margin-bottom: 32px;
-        line-height: 24px;
-        font-size: 24px;
-    }
-    .footer__links-item:last-of-type {
-        margin-bottom: 48px;
-    }
-}

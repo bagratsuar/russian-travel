@@ -14,12 +14,6 @@
     }
 }
 
-@media (max-width: 1024px) {
-    .places__main-text {
-        max-width: 456px;
-    }
-}
-
 @media (max-width: 768px) {
     .places__main-text {
         max-width: 352px;
@@ -31,7 +25,5 @@
 @media (max-width: 320px) {
     .places__main-text {
         max-width: 288px;
-        line-height: 26.08px;
-        font-size: 16px;
     }
 }
