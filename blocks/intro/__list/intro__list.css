@@ -7,6 +7,8 @@
     font-style: normal;
     list-style: none;
     padding-left: 0;
+    margin-top: 33px;
+    margin-bottom: 0;
 }
 
 @media (max-width: 768px) {

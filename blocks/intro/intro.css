@@ -13,14 +13,15 @@
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .intro {
-        max-width: 425px;
+        max-width: 720px;
     }
 }
 
 @media (max-width: 320px) {
     .intro {
         max-width: 288px;
+        padding-top: 64px;
     }
 }

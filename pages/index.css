@@ -23,8 +23,8 @@
 @import url(../blocks/places/__image/places__image.css);
 @import url(../blocks/places/__links/places__links.css);
 @import url(../blocks/places/__link/places__link.css);
+@import url(../blocks/places/__list/places__list.css);
 @import url(../blocks/places/__url-heading/places__url-heading.css);
-@import url(../blocks/places/__links/__url-heading/places__url-heading.css);
 @import url(../blocks/places/__main-text/places__main-text.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/places/__item/places__item.css);

@@ -1,4 +1,7 @@
 .places__list {
-    margin-left: 0;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
