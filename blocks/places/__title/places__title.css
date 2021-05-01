@@ -25,8 +25,9 @@
 
 @media (max-width: 420px) {
     .places__title {
-        max-width: calc(100% - 32px);
+        width: calc(100% - 32px);
         line-height: 35px;
         font-size: 32px;
+        margin: 0 auto;
     }
 }

@@ -24,6 +24,7 @@
 
 @media (max-width: 420px) {
     .places__main-text {
-        max-width: calc(100% - 32px);
+        width: calc(100% - 32px);
+        margin: 0 auto;
     }
 }
