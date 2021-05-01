@@ -1,8 +1,16 @@
 .places__links {
     max-width: 456px;
-    grid-area: links;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    justify-self: center;
+    margin: 0;
+    grid-row: 1;
+    grid-column: 2;
+    align-self: end;
+}
+
+@media (max-width: 320px) {
+    .places__links {
+        margin: 0;
+        grid-row: 2;
+        grid-column: 1;
+        margin-left: 16px;
+    }
 }
